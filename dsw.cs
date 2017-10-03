@@ -1032,7 +1032,7 @@ namespace dsw
 			msg += "\tDSW: Same File Created Watcher 0.9.0" + Environment.NewLine;
 			msg += Environment.NewLine;
 			msg += "\t(c) 2003 by Vasian Cepa" + Environment.NewLine;
-			msg += "\thttp://madebits.com/" + Environment.NewLine;
+			msg += "\t/" + Environment.NewLine;
 			msg += Environment.NewLine;
 			msg += "\tThis software comes without any warranty!" + Environment.NewLine;
 			ft.Size = new Size(200, 150);
